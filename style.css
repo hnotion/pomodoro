@@ -38,7 +38,7 @@ button:focus {
 
 .clock-container {
   background-color: rgb(212,198,190,255); 
-  width: 350px;
+  width: 150px;
   border-radius: 20px;
   padding: 20px;
   box-shadow: 10px 10px rgb(159,107,83,1);
@@ -95,8 +95,8 @@ button:focus {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  width: 140px;
-  height:60px;
+  width: 100px;
+  height:50px;
 }
 
 .break-container, 
