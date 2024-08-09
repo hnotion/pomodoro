@@ -19,6 +19,7 @@ button:active {
   border: none;
   width: 50px;
   height: 60px;
+  padding: 60px
   border-radius: 100%;
   text-align: center;
   box-shadow: 0.2em 0.2em rgb(159,107,83,1);
