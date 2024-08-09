@@ -19,7 +19,6 @@ button:active {
   border: none;
   width: 42px;
   height: 40px;
-  padding: 30px
   border-radius: 100%;
   text-align: center;
   box-shadow: 0.2em 0.2em rgb(159,107,83,1);
@@ -38,9 +37,9 @@ button:focus {
 
 .clock-container {
   background-color: rgb(212,198,190,255); 
-  width: 50px;
-  border-radius: 15px;
-  padding: 15px;
+  width: 350px;
+  border-radius: 20px;
+  padding: 30px;
   box-shadow: 10px 10px rgb(159,107,83,1);
 }
 
@@ -95,8 +94,8 @@ button:focus {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  width: 100px;
-  height:50px;
+  width: 140px;
+  height:60px;
 }
 
 .break-container, 
