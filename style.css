@@ -6,7 +6,10 @@
 
 div {
   overflow-y: hidden;  
+/* hide vertical scrollbar and prevent vertical scrolling */
 
+div {
+  overflow-x: hidden;  
 /* General */
 
 body {
