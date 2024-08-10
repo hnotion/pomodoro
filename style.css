@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&display=swap');
+/* hide scrollbar and prevent scrolling */
+#div-1 { overflow: hidden; }
+#div-2 { overflow: visible; }
 
 /* General */
 
