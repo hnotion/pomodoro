@@ -2,6 +2,10 @@
 /* hide scrollbar and prevent scrolling */
 #div-1 { overflow: hidden; }
 #div-2 { overflow: visible; }
+/* hide vertical scrollbar and prevent vertical scrolling */
+
+div {
+  overflow-y: hidden;  
 
 /* General */
 
